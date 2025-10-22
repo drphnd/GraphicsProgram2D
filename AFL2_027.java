@@ -1,4 +1,3 @@
-package GraphicsProgram2D;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -7,7 +6,7 @@ import java.awt.geom.GeneralPath;
 import java.util.Random;
 
 
-public class BouncingVertexText {
+public class AFL2_027 {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             JFrame frame = new JFrame("Drphnd Bouncing Text");
